@@ -15,6 +15,15 @@ Report #1: Supplier Delivery                    |  Report #2: Wine Sales        
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](images/report4.PNG)  |  ![ScreenShot](images/report5.PNG) | ![ScreenShot](images/report6.PNG)
 
+<h4>Report #1: Supplier Delivery</h4>
+<img src="images/report4.PNG" width="50%">
+
+<h4>Report #2: Wine Sales</h4>
+<img src="images/report5.PNG" width="50%">
+
+<h4>Report #3: Employee Time</h4>
+<img src="images/report6.PNG" width="50%">
+
 <hr>
 
 [Back to Table of Contents](#table-of-contents)
