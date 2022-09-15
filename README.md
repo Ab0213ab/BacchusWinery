@@ -1,7 +1,5 @@
 # BacchusWinery
 
-Technologies used: UMLet for diagram MomngoDB Python cursor for SQL CRUD operations
-
 ## Table of Contents
 1. [Database Screen Shots](#database-screen-shots)
 2. [Database Description](#database-description)
@@ -12,9 +10,9 @@ Technologies used: UMLet for diagram MomngoDB Python cursor for SQL CRUD operati
 
 <img src="images/ORD.png" width="50%">
 
-Book Inventory stored in database ->                   |  Cart and Customer Checkout Form ->               |  Purchase Summary
+Report #1: Supplier Delivery                    |  Report #2: Wine Sales                |  Report #3: Employee Time
 :-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](ebookshop/WebContent/images/landing.PNG)  |  ![ScreenShot](ebookshop/WebContent/images/cart.PNG) | ![ScreenShot](ebookshop/WebContent/images/checkout.PNG)
+![ScreenShot](images/report4.PNG)  |  ![ScreenShot](images/report5.PNG) | ![ScreenShot](images/report6.PNG)
 
 <hr>
 
