@@ -9,20 +9,16 @@
 ## Database Screen Shots
 
 <h4>ORD</h4>
-<img src="images/ORD.png" width="50%">
-
-Report #1: Supplier Delivery                    |  Report #2: Wine Sales                |  Report #3: Employee Time
-:-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](images/report4.PNG)  |  ![ScreenShot](images/report5.PNG) | ![ScreenShot](images/report6.PNG)
+<img src="images/ORD.png" width="70%">
 
 <h4>Report #1: Supplier Delivery</h4>
-<img src="images/report4.PNG" width="50%">
+<img src="images/report4.PNG" width="70%">
 
 <h4>Report #2: Wine Sales</h4>
-<img src="images/report5.PNG" width="50%">
+<img src="images/report5.PNG" width="70%">
 
 <h4>Report #3: Employee Time</h4>
-<img src="images/report6.PNG" width="50%">
+<img src="images/report6.PNG" width="70%">
 
 <hr>
 
