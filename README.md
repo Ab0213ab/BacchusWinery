@@ -18,7 +18,7 @@
 <img src="images/report5.PNG" width="70%">
 
 <h4>Report #3: Employee Time</h4>
-<img src="images/report6.PNG" width="60%">
+<img src="images/report6.PNG" width="65%">
 
 <hr>
 
