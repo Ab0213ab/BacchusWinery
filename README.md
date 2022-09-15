@@ -22,7 +22,7 @@ Book Inventory stored in database ->                   |  Cart and Customer Chec
 
 ### Database Description
 
-BacchusWinery is a database built designed by a six-person team in a mock agile SDLC environment for a faux client named Bacchus Winery.
+BacchusWinery is a database built by a six-person team in a mock agile SDLC environment for a faux client named Bacchus Winery.
 The database was constructed with the intent of making reports of the stored data available to the winery based on its communicated business needs. 
 This normalized, MongoDB database features SQL CRUD operations and join creations via Python cursor.
 
